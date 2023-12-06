@@ -1,0 +1,13 @@
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    justify-content: center;
+    
+}
+
+.navbar{
+    background: rgb(110, 110, 115);
+}
+
